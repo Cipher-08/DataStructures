@@ -32,6 +32,7 @@ int main()
     temp->data = 54;
     temp->link = NULL;
     head = temp;
+    cout<<"h";
 
     cout<<"How many element you want to add in the linked list?\n";
     int n;
